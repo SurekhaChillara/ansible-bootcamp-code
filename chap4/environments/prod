@@ -1,0 +1,12 @@
+[local]
+localhost ansible_connection=local
+
+[app]
+app1
+app2
+
+[db]
+db
+
+[lb]
+lb
